@@ -1,7 +1,7 @@
 # Google_Contacts_Cleansing
 
-The code does an analysis of how many contacts fall in each catogory and provides the required fixation whenever needed.
-This is a very simple yet elegant project. I keep moving in different countries and there are thousands of contacts that are synced to my 
+This is another piece of code which is a result of my excessive day sleeping leading to no sleep situation post midnight.
+A very simple yet elegant project. I keep moving in different countries and there are thousands of contacts that are synced to my 
 Google account. Some of these contacts are not in proper format i.e. some Indian contacts don't have +91, some start which 0 (which works 
 if you are in the same country), some are automatically picking the wrong country code. Due to these, I have faced challenges adding contacts 
 to WhatsApp or other communication apps. There are many more nuances present in those numbers. Doing this manually is just not possible, 
